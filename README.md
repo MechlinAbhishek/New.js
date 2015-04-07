@@ -1,6 +1,6 @@
 # New.js
 #Introducing new custom tags for making form validation easier and quick development.
-<b>New tags and few classes are introduces here, let me explain all of these one by one.</b>
+<b>New tags and few classes are introduced here, let me explain all of these one by one.</b>
 
 1. "< new-h1 >" The very first tag, similar to "< h1 >" in HTML but differs in UI, this will provide you the best suitable interphase for a good UI, if you will put any content inside it, followed by its closing tag then the color of the content will change every second upto infinity.
 2. class="b1 to b9" 9 new classes to use for any div, a new background pattern will be provided to the div which will have any class from b1 to b9.
