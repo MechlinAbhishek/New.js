@@ -15,8 +15,12 @@
 11. &lt;new-url&gt; what it does, is similar to that of the &lt;input type=&quot;url&quot; /&gt;, but it is with strong HTML5 validations already, so anyone can use it inside a form tag.
 12. &lt;new-url&gt; what it does, is similar to that of the &lt;input type=&quot;phone&quot; /&gt;, but it is with strong HTML5 validations already, so anyone can use it inside a form tag. Also it does pattern matching for a phone number and restricts fake phone numbers thus.
 <br /><br />
-<b>You can check Demo.html page for a quick Demo or  <a href="https://rawgit.com/abhishekvats/New.js/master/Demo.html">click here</a></b><br /><br />
+<b>You can check Demo.html page for a quick Demo or </b> <button onclick='showdata()'>Click here</button><br /><br />
 <b>Note: All these tags which are introduced for form tags has a limitation for now, and compatible for Google chrome for now. we have future scope for these all and hopefully we upgrade it soon with no more limitations on them. But for now they have some limitations and you can't use any tag on the same page again except Classes and ID's for background change of a div or the body, Also you can use &lt;new-h1&gt; multiple times in a page.</b>
-
+<script>
+function showdata() {
+  var win = window.open(url, 'https://rawgit.com/abhishekvats/New.js/master/Demo.html');
+  win.focus();
+}
 
 
