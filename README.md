@@ -2,7 +2,7 @@
 #Introducing new custom tags for making form validation easier and quick development.
 <b>New tags and few classes are introduced here, let me explain all of these one by one.</b>
 
-1. &lt;new-h1&gt; The very first tag, similar to &lt;h1&gt; in HTML but differs in UI, this will provide you the best suitable interphase for a good UI, if you will put any content inside it, followed by its closing tag then the color of the content will change every second upto infinity.
+1. &lt;new-h1&gt; The very first tag, similar to &lt;h1&gt; in HTML but differs in UI, this will provide you the best suitable interface for a good UI, if you will put any content inside it, followed by its closing tag then the color of the content will change every second upto infinity.
 2. class="b1 to b9", 9 new classes to use for any div, a new background pattern will be provided to the div which will have any class from b1 to b9.
 3. id="new-back-1" Similarly for the background of the page you have to assign "new-back-1" id to body and there are 9 id's for that, same as the class. And these varies from "new-back-1" to "new-back-9".
 4. &lt;new-text&gt; what it does, is similar to that of the &lt;input type=&quot;text&quot; /&gt;, but it is with strong HTML5 validations already, so anyone can use it inside a form tag.
